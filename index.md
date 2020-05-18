@@ -8,9 +8,7 @@
 
 1. [サポちゃんログインページ](https://sapochan.nw.is.kyusan-u.ac.jp/support5/) にアクセスします。
 2. 以下のようなログインページが表示されます。ID と Password は K'sLife と同じものです。
-```
-![ログインページ](sapochan02.png)
-```
+    ![ログインページ](sapochan02.png)
 3. 初回ログイン時は、以下のように許可を求めてきます。許可してください。
 
 ![許可](sapochan04.png)
